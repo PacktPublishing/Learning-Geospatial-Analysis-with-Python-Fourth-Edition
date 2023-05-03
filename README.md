@@ -1,2 +1,2 @@
 # Learning-Geospatial-Analysis-with-Python-4th-Edition
-Learning Geospatial Analysis with Python - 4th Edition, published by Packt
+Code repository for Packt Publishing's "Learning Geospatial Analysis with Python - 4th Edition"
