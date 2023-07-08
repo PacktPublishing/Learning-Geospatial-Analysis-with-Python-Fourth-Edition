@@ -8,7 +8,7 @@ from shapely.ops import nearest_points
 #>>>fiona.listlayers("city.gpkg")
 #   ['buildings', 'roads', 'layer_styles']
 
-# Sample data: https://github.com/GeospatialPython/Learn/raw/master/city.gpkg
+# Sample data: https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_05_Asset_Files/city.gpkg
 
 # Now we open the buildings layer and then the roads layer
 with fiona.open("city.gpkg", layer="buildings") as buildings:

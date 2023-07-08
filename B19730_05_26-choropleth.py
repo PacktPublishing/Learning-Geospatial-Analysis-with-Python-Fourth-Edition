@@ -1,4 +1,7 @@
 """Choropleth thematic map"""
+
+# https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_05_Asset_Files/GIS_CensusTract.zip
+
 import math
 import shapefile
 

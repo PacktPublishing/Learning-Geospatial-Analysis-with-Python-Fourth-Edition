@@ -1,4 +1,7 @@
 """Convert a shapefile from lat/lon to UTM"""
+
+# https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_05_Asset_Files/NYC_MUSEUMS_GEO.zip
+
 import shapefile
 import utm
 r = shapefile.Reader("NYC_MUSEUMS_GEO")

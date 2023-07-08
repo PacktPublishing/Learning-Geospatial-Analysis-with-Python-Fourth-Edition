@@ -1,6 +1,6 @@
 """Create a dot-density thematic map"""
 
-# https://github.com/GeospatialPython/Learn/raw/master/GIS_CensusTract.zip
+# https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_05_Asset_Files/GIS_CensusTract.zip
 
 import random
 import pngcanvas

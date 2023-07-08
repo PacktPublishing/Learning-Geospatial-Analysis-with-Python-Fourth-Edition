@@ -2,6 +2,8 @@
 aggregate_geometry.py - combine a group of polygons into one.
 """
 
+# https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/blob/ee8b1be67808e0f8b77fa422d36b049dea6a57ce/B19730_05_Asset_Files/ms_counties.geojson
+
 # Used OrderedDict to control the order
 # of data attributes
 from collections import OrderedDict

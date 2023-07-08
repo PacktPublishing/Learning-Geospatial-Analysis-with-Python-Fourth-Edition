@@ -1,6 +1,6 @@
 """Attribute selection for subset"""
 
-# https://github.com/GeospatialPython/Learn/raw/master/MS_UrbanAnC10.zip
+# https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_05_Asset_Files/MS_UrbanAnC10.zip
 
 import shapefile
 

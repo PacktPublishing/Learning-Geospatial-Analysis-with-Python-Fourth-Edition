@@ -1,6 +1,6 @@
 """Convert a spreadsheet to a shapefile"""
 
-# https://github.com/GeospatialPython/Learn/raw/master/NYC_MUSEUMS_GEO.xls
+# https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_05_Asset_Files/NYC_MUSEUMS_GEO.xls
 
 import xlrd
 import shapefile

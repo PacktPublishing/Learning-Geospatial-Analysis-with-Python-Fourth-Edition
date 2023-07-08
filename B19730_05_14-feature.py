@@ -1,6 +1,6 @@
 """Add a feature to a shapefile"""
 
-# https://github.com/GeospatialPython/Learn/raw/master/ep202009_5day_026.zip
+# https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_05_Asset_Files/ep202009_5day_026.zip
 
 import shapefile
 

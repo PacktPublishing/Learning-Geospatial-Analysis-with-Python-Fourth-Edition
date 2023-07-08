@@ -1,6 +1,6 @@
 """Open a shapefile for reading"""
 
-# https://github.com/GeospatialPython/Learn/raw/master/MSCities_Geo_Pts.zip
+# https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_05_Asset_Files/MSCities_Geo_Pts.zip
 
 import shapefile
 

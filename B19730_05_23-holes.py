@@ -1,6 +1,6 @@
 """Extract Polygons with holes"""
 
-#https://github.com/GeospatialPython/Learn/raw/master/BuildingFootprintsOSM.gpkg
+# https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_05_Asset_Files/BuildingFootprintsOSM.gpkg
 
 import fiona
 from shapely.geometry import shape, MultiPolygon

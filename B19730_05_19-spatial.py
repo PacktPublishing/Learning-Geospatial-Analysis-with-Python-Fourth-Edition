@@ -1,6 +1,6 @@
 """Shapefile spatial query"""
 
-# https://github.com/GeospatialPython/Learn/raw/master/roads.zip
+# https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_05_Asset_Files/roads.zip
 
 import shapefile
 
