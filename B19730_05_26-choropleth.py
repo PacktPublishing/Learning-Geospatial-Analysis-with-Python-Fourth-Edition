@@ -8,7 +8,6 @@ try:
 except:
     from PIL import Image, ImageDraw
 
-
 def world2screen(bbox, w, h, x, y):
     """convert geospatial coordinates to pixels"""
     minx, miny, maxx, maxy = bbox
@@ -56,4 +55,19 @@ for sr in inShp.shapeRecords():
         pixels.append((px, py))
     draw.polygon(pixels, outline=(255, 255, 255), fill=(R, G, B))
 
+# Save the map image 
 img.save("choropleth.png")
+
+with open("choropleth.pgw", "w") as wf:
+    minx, miny, maxx, maxy = inShp.bbox
+    xdist = maxx - minx
+    ydist = maxy - miny   
+    xratio = xdist/iwidth
+    yratio = ydist/iheight
+    wf.write(f"{xratio}\n")
+    wf.write("0\n")
+    wf.write("0\n")
+    wf.write(f"-{yratio}\n")
+    wf.write(f"{minx}\n")
+    wf.write(f"{maxy}\n")
+
