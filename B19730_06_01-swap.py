@@ -1,6 +1,6 @@
 """Swap bands in a raster satellite image"""
 
-# http://git.io/vqs41
+# https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_06_Asset_Files/FalseColor.zip
 
 from osgeo import gdal_array
 
