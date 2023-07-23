@@ -1,6 +1,6 @@
 """Graph a histogram of a remotely sensed image"""
 
-# http://git.io/vqs41
+# https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_06_Asset_Files/swap.zip
 # uses output from swap-bands.py script
 
 from osgeo import gdal_array
