@@ -5,7 +5,7 @@ intermediate grids for slope and
 aspect.
 """
 
-#https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_08_Asset_Files/dem.zip
+# https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_08_Asset_Files/dem.zip
 
 from linecache import getline
 import numpy as np
