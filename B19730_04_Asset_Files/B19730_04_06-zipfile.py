@@ -2,9 +2,9 @@
 
 # https://github.com/GeospatialPython/Learning/raw/master/hancock.zip
 
-import zipfile
+from zipfile import ZipFile
 zip = open("hancock.zip", "rb")
-zipShape = zipfile.ZipFile(zip)
+zipShape = ZipFile(zip)
 shpName, shxName, dbfName = zipShape.namelist()
 shpFile = open(shpName, "wb")
 shxFile = open(shxName, "wb")

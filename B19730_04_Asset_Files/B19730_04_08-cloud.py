@@ -1,7 +1,5 @@
 # Extract a zipped shapefile via a url
 import urllib.request
-import urllib.parse
-import urllib.error
 import zipfile
 import io
 import struct
