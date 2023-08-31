@@ -4,7 +4,7 @@ import zipfile
 import io
 import struct
 
-url = "https://github.com/GeospatialPython/Learning/raw/master/hancock.zip"
+url = "https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-4th-Edition/raw/main/B19730_04_Asset_Files/hancock.zip"
 cloudshape = urllib.request.urlopen(url)
 memoryshape = io.BytesIO(cloudshape.read())
 zipshape = zipfile.ZipFile(memoryshape)
