@@ -56,8 +56,7 @@ System requirements are mentioned in the following table:
 
 | Software/Hardware                              | Operating System requirements      |
 | ------------------------------------           | -----------------------------------|
-| Anaconda 2.4.0 or higher                       | Windows – 64-bit x86; macOS – 64-bit x86 and M1; or Linux – 64-bit x86, 64-bit aarch64 (AWS Graviton2), 64-bit Power8/
-Power9, or s390x (Linux on IBM Z and LinuxONE) |
+| Anaconda 2.4.0 or higher                       | Windows – 64-bit x86; macOS – 64-bit x86 and M1; or Linux – 64-bit x86, 64-bit aarch64 (AWS Graviton2), 64-bit Power8/ Power9, or s390x (Linux on IBM Z and LinuxONE) |
 | Python 3.10 or higher                          |8 GB of RAM|
 | ECMAScript 11                                  |6 GB of disk space or more|
 
