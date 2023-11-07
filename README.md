@@ -65,7 +65,7 @@ run the code from the command line within an Anaconda Python environment. If you
 Jupyter Notebooks, you may get unpredictable results.
 
 ### Related products <Other books you may enjoy>
-* Geospatial Analysis with SQL [[Packt]](https://www.packtpub.com/product/geospatial-analysis-with-sql/9781835083147) [[Amazon]](https://www.amazon.com/dp/180461646X)
+* Geospatial Analysis with SQL [[Packt]](https://www.packtpub.com/product/geospatial-analysis-with-sql/9781835083147) [[Amazon]](https://www.amazon.com/dp/1835083145)
 
 * Geospatial Data Analytics on AWS [[Packt]](https://www.packtpub.com/product/geospatial-data-analytics-on-aws/9781804613825) [[Amazon]](https://www.amazon.com/dp/1804613827)
 
