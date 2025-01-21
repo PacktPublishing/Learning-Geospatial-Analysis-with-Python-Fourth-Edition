@@ -1,6 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/image.jpeg)](https://www.packtpub.com/)</p></b>Get this book on sale at [Packt](https://www.packtpub.com/).
-
 # Learning Geospatial Analysis with Python
 
 <a href="https://www.packtpub.com/product/learning-geospatial-analysis-with-python/9781837639175?utm_source=github&utm_medium=repository&utm_id=9781837639175"><img src="https://content.packt.com/B19730/cover_image_small.jpg" alt="Learning Geospatial Analysis with Python" height="256px" align="right"></a>
